@@ -1,4 +1,3 @@
-// Board.js
 import React from 'react';
 import Square from './Square';
 import { Flex, Box } from '@chakra-ui/react';
